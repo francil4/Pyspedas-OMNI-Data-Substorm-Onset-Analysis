@@ -9,3 +9,5 @@ Should be compatible with all systems including Windows, Mac, & Linux
 Fair warning if data time range is large, PC may take several hours to load data. Once the .npz file is created, the remaining processing and plotting files are a lot faster
 
 There are two processing files: one with and one without multiprocessing. This may be limited to the type of CPU or system you are running on, both do the same analysis, one is just much faster
+
+This code is subject to change as the research is ongoing. This is to verify results, some errors may not be accounted for
